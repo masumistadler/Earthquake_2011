@@ -11,3 +11,9 @@ Infromational text for the LinkedIn Post:
 📊 To reflect on this, I created an animated map showing earthquake activity across Japan between February and July 2011. A year marked by one of the most powerful earthquakes in recorded history. The animation helps visualize the frequency and scale of seismic activity.
 
 🧭 If you're visiting Japan or any earthquake-prone region, please take a moment to review local emergency procedures. Japan’s government offers an app and website for hazard information and alerts for travelers: https://www.jnto.go.jp/safety-tips/eng/
+
+---
+
+## *Share, adapt, attribute*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
